@@ -5,7 +5,7 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Screenshots 
 Homepage
 
-![homepage](https://github.com/youthbazzy/jungle-rails/blob/master/docs/jungle-homepage.png?raw=true)
+![homepage](https://github.com/youthbazzy/jungle-rails/blob/master/docs/jungle-home.png?raw=true)
 
 Product
 
